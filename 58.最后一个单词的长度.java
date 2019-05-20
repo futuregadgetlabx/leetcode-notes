@@ -1,5 +1,3 @@
-import sun.print.resources.serviceui;
-
 /*
  * @lc app=leetcode.cn id=58 lang=java
  *
