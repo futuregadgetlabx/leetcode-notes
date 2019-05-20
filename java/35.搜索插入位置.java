@@ -2,6 +2,7 @@
  * @lc app=leetcode.cn id=35 lang=java
  *
  * [35] 搜索插入位置
+ * 
  * √ Accepted
  * √ 62/62 cases passed (1 ms)
  * √ Your runtime beats 96.68 % of java submissions

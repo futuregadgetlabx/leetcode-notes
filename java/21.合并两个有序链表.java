@@ -2,6 +2,11 @@
  * @lc app=leetcode.cn id=21 lang=java
  *
  * [21] 合并两个有序链表
+ * 
+ * √ Accepted
+ * √ 208/208 cases passed (2 ms)
+ * √ Your runtime beats 97.22 % of java submissions
+ * √ Your memory usage beats 90.99 % of java submissions (35.2 MB)
  */
 /**
  * Definition for singly-linked list.
