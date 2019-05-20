@@ -2,6 +2,11 @@
  * @lc app=leetcode.cn id=9 lang=java
  *
  * [9] 回文数
+ * 
+ * √ Accepted
+ * √ 11509/11509 cases passed (54 ms)
+ * √ Your runtime beats 75.81 % of java submissions
+ * √ Your memory usage beats 85.16 % of java submissions (38.3 MB)
  */
 class Solution {
     public boolean isPalindrome(int x) {

@@ -4,6 +4,11 @@
  * @lc app=leetcode.cn id=13 lang=java
  *
  * [13] 罗马数字转整数
+ * 
+ * √ Accepted
+ * √ 3999/3999 cases passed (20 ms)
+ * √ Your runtime beats 96.76 % of java submissions
+ * √ Your memory usage beats 89.95 % of java submissions (37.7 MB)
  */
 class Solution {
     public int romanToInt(String s) {

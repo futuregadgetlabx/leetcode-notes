@@ -2,6 +2,10 @@
  * @lc app=leetcode.cn id=26 lang=java
  *
  * [26] 删除排序数组中的重复项
+ * √ Accepted
+ * √ 161/161 cases passed (2 ms)
+ * √ Your runtime beats 98.74 % of java submissions
+ * √ Your memory usage beats 83.89 % of java submissions (42 MB)
  */
 class Solution {
     public int removeDuplicates(int[] nums) {

@@ -2,6 +2,11 @@
  * @lc app=leetcode.cn id=1 lang=java
  *
  * [1] 两数之和
+ * 
+ * √ Accepted
+ * √ 29/29 cases passed (48 ms)
+ * √ Your runtime beats 42.65 % of java submissions
+ * √ Your memory usage beats 84.63 % of java submissions (37.7 MB)
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {

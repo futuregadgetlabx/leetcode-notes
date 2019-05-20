@@ -2,6 +2,11 @@
  * @lc app=leetcode.cn id=7 lang=java
  *
  * [7] 整数反转
+ * 
+ * √ Accepted
+ * √ 1032/1032 cases passed (8 ms)
+ * √ Your runtime beats 73.33 % of java submissions
+ * √ Your memory usage beats 78.95 % of java submissions (33.9 MB)
  */
 class Solution {
     public int reverse(int x) {

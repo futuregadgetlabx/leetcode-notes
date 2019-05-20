@@ -2,6 +2,10 @@
  * @lc app=leetcode.cn id=35 lang=java
  *
  * [35] 搜索插入位置
+ * √ Accepted
+ * √ 62/62 cases passed (1 ms)
+ * √ Your runtime beats 96.68 % of java submissions
+ * √ Your memory usage beats 81.37 % of java submissions (37.8 MB)
  */
 class Solution {
     public int searchInsert(int[] nums, int target) {
