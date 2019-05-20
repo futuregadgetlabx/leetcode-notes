@@ -1,2 +1,4 @@
 # LeetCodeNotes
-:frog::gun: LeetCode解题记录，Pass至上。
+
+:frog::gun: LeetCode 解题记录，Pass 至上。
+
