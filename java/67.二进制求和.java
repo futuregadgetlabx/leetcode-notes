@@ -2,6 +2,11 @@
  * @lc app=leetcode.cn id=67 lang=java
  *
  * [67] 二进制求和
+ * 
+ * √ Accepted
+ * √ 294/294 cases passed (5 ms)
+ * √ Your runtime beats 76.81 % of java submissions
+ * √ Your memory usage beats 87.75 % of java submissions (34.6 MB)
  */
 class Solution {
     public String addBinary(String a, String b) {
